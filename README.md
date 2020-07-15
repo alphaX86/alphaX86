@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-I'm Aadhitya A, student developer, nerd, gamer open source and ML Enthusiast. 
+I'm Aadhitya A, student developer, nerd, gamer open source and ML Enthusiast. I just thought I coupd give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
 - 🔭 I’m currently working on ML, Full Stack and Quantum Computing 
 - 🌱 I’m currently learning the basics of open source plus ML
