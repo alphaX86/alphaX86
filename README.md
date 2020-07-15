@@ -9,16 +9,17 @@ Here are some ideas to get you started:
 
 I'm Aadhitya A, student developer, nerd, gamer, open source and ML Enthusiast. I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
+Here are my facts to be more clear:
 - 🔭 I’m currently working on ML, Full Stack and any other open source type. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
 - 👯 I’m looking to collaborate on any open source project (coz I'm interested 👍) 
 
 - 💬 Ask me about anything. I'll try to sort them of course!
-- 📫 How to reach me: Through Discord (Duo-x#0703) or through my mail (Just ask me in the issues for more)
+- 📫 How to reach me: Through Discord (Duo-x#0703) or through other platforms below. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂😂😂
 
-Want to reach me for more? Sure! 
+Want to reach me for more?
 
 [LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) 
 
