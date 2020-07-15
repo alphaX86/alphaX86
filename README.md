@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-I'm Aadhitya A, student developer, nerd, gamer, open source and ML Enthusiast. I just thought I coupd give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
+I'm Aadhitya A, student developer, nerd, gamer, open source and ML Enthusiast. I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
 - 🔭 I’m currently working on ML, Full Stack and any other open source type. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
@@ -18,3 +18,8 @@ I'm Aadhitya A, student developer, nerd, gamer, open source and ML Enthusiast. I
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂😂😂
 
+Want to reach me for more? Sure! 
+
+[LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) 
+
+[Instagram](https://instagram.com/kryo_x27)
