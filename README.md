@@ -23,3 +23,7 @@ Want to reach me for more? Sure!
 [LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) 
 
 [Instagram](https://instagram.com/kryo_x27)
+
+[Twitter](https://twitter.com/KryoX86_64)
+
+
