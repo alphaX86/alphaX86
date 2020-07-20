@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 
 **I'm Aadhitya A, UG student at AU, developer, nerd, gamer, open source and ML Enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
-![Img art](./download.jpeg)
-
 Here are my facts to be more clear:
 - 🔭 I’m currently working on ML, Full Stack and open source dev. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
