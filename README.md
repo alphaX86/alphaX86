@@ -15,7 +15,7 @@ Here are my facts to be more clear:
 - 👯 I’m looking to collaborate on any open source project (coz I'm interested 👍) 
 - ❤️ I love to code and play games 
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
-- 📫 How to reach me: Through Discord (Duo-x#0703) or through other platforms below. 
+- 📫 How to reach me: Through Discord (AirX#0703) or through other platforms below. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂😂😂
 
