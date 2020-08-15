@@ -21,6 +21,6 @@ Here are my facts to be more clear:
 
 Want to reach me for more? Here they are!
 
-[LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) | [Instagram](https://instagram.com/kryo_x27) | [Twitter](https://twitter.com/KryoX86_64) | [Profile](https://kryome.carrd.co)
+[LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) | [Instagram](https://instagram.com/kryo_x27) | [Twitter](https://twitter.com/KryoX86_64) | [Profile](https://kryome.carrd.co) | [Mail](mailto:echo-864@wearehackerone.com)
 
 
