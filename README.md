@@ -21,6 +21,11 @@ Here are my facts to be more clear:
 
 Want to reach me for more? Here they are!
 
-[LinkedIn](https://linkedin.com/in/aadhitya-a-5549781a3) | [Instagram](https://instagram.com/kryo_x27) | [Twitter](https://twitter.com/KryoX86_64) | [Profile](https://kryome.carrd.co) | [Mail](mailto:echo-864@wearehackerone.com)
+<p align="center">
+  <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/linkedin-profile-blue/?style=flat-square&logo=appveyor" alt="linkedin">
+  <a href="https://twitter.com/KryoX86_64"><img src="https://img.shields.io/badge/twitter-profile-blue/?style=flat-square&logo=appveyor" alt="twitter">
+  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/mail-red/?style=flat-square&logo=appveyor" alt="mail">
+  <a href="https://kryome.carrd.co"><img src="https://img.shields.io/badge/carrd-red/?style=flat-square&logo=appveyor" alt="carrd">
+</p>
 
 
