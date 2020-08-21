@@ -1,13 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**echo-864/echo-864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
-
-**I'm Aadhitya A, UG student at AU, developer, nerd, gamer, open source and ML Enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
+**I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer, open source and ML Enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
 Here are my facts to be more clear:
 - 🔭 I’m currently working on ML, Full Stack and open source dev. 
