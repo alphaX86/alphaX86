@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<img src="https://giphy.com/gifs/Kc2GKprlwHTTizRfmu">
+
 
 **I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer, open source and ML Enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
