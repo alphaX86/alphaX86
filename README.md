@@ -6,7 +6,6 @@
 Here are my facts to be more clear:
 - 🔭 I’m currently working on ML, Full Stack and open source dev. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
-- 👯 I’m looking to collaborate on any open source project (coz I'm interested 👍) 
 - ❤️ I love to code and play games 
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
