@@ -7,13 +7,13 @@
 
 
 Here are my facts to be more clear:
-- 🔭 I’m currently working on ML, Full Stack and open source dev. 
+- 🔭 I’m currently working on ML, Full Stack, open source development and other stuffs. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
-- ❤️ I love to code and play games 
+- ❤️ I love to code and play games.
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂😂😂
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂
 
 Want to reach me for more? Here they are!
 
