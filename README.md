@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer, open source and ML Enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
+**I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer, open source enthusiast.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
 
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/source.gif" height="400" width="800" loading="lazy" alt="hello_gif">
