@@ -7,7 +7,7 @@
 
 
 Here are my facts to be more clear:
-- 🔭 I’m currently working on ML, Full Stack, open source development and other stuffs. 
+- 🔭 I’m currently working on Python3, C++, React, open source development and other stuffs. 
 - 🌱 I’m currently learning the basics of open source program, ML and any topic that makes me interested!
 - ❤️ I love to code and play games.
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
