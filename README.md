@@ -13,8 +13,8 @@ Here are my facts to be more clear:
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
 - 😄 Pronouns: He/Him/His
-- :book: Tech Stack: MERN, C++ and MySQL
-- ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂
+- :book: Tech Stack: MERN (beginner), C++, MySQL (need to update :smile:)
+- ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂 Other than that, I'm anxious
 
 Want to reach me for more? Here they are!
 
