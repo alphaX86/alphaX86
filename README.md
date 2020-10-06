@@ -19,10 +19,10 @@ Here are my facts to be more clear:
 Want to reach me for more? Here they are!
 
 <p align="center">
-  <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/linkedin-profile-blue/?style=flat-square&logo=linkedin&labelColor=black" alt="linkedin"></a>
-  <a href="https://twitter.com/KryoX86_64"><img src="https://img.shields.io/badge/twitter-profile-blue/?style=flat-square&logo=twitter&labelColor=blue" alt="twitter"></a>
-  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/mail-red/?style=flat-square&logo=gmail&labelColor=white" alt="mail"></a>
-  <a href="https://kryome.carrd.co"><img src="https://img.shields.io/badge/carrd-red/?style=flat-square&logo=OSMC&labelColor=orange" alt="carrd"></a>
+  <a href="https://linkedin.com/in/alphaX86"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
+  <a href="https://twitter.com/KryoX86_64"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" ></a>
+  <a href="mailto:echo-864@wearehackerone.com"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
+  <a href="https://kryome.carrd.co"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
 </p>
 
 
