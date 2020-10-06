@@ -23,6 +23,7 @@ Want to reach me for more? Here they are!
   <a href="https://twitter.com/KryoX86_64"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" ></a>
   <a href="mailto:echo-864@wearehackerone.com"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
   <a href="https://kryome.carrd.co"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
+  <a href="https://www.hackerrank.com/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg" /></a>
 </p>
 
 
