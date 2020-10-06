@@ -19,10 +19,10 @@ Here are my facts to be more clear:
 Want to reach me for more? Here they are!
 
 <p align="center">
-  <a href="https://linkedin.com/in/alphaX86"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
-  <a href="https://twitter.com/KryoX86_64"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" ></a>
-  <a href="mailto:echo-864@wearehackerone.com"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
-  <a href="https://kryome.carrd.co"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
+  <a href="https://linkedin.com/in/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
+  <a href="https://twitter.com/KryoX86_64"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" ></a>
+  <a href="mailto:echo-864@wearehackerone.com"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
+  <a href="https://kryome.carrd.co"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
 </p>
 
 
