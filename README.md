@@ -26,4 +26,6 @@ Want to reach me for more? Here they are!
   <a href="https://www.hackerrank.com/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg" /></a>
 </p>
 
-
+<!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
+[![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
