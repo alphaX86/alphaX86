@@ -4,6 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/source.gif" height="400" width="800" loading="lazy" alt="hello_gif">
 
+## Who am I?
+
+I'm a 18 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a part time gamer (well, not PRO exactly :smile:)
+
 Here are my facts to be more clear:
 - 🔭 I’m currently working on Python3, C++, React, open source development and other stuffs. 
 - 🌱 I’m currently learning the basics of open source program, ML, Full-stack development using MERN
@@ -14,7 +18,7 @@ Here are my facts to be more clear:
 - :book: Tech Stack: MERN (beginner), C++, MySQL (need to update :smile:)
 - ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂 Other than that, I'm anxious
 
-Want to reach me?
+## Want to reach me for more?
 
 <p align="center">
   <a href="https://linkedin.com/in/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
