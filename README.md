@@ -1,10 +1,8 @@
-### Hi there! 👋
+## Hi there! 👋
 
-**I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer and open source geek.** I just thought I could give myself an intro 😂. Anyways, it's nice to meet you all! 👋👋
-
+**I'm Aadhitya A, UG student at AU - MIT Campus, developer, nerd, gamer and open source geek.**. It's nice to meet you all! 👋👋
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/source.gif" height="400" width="800" loading="lazy" alt="hello_gif">
-
 
 Here are my facts to be more clear:
 - 🔭 I’m currently working on Python3, C++, React, open source development and other stuffs. 
@@ -16,7 +14,7 @@ Here are my facts to be more clear:
 - :book: Tech Stack: MERN (beginner), C++, MySQL (need to update :smile:)
 - ⚡ Fun fact: I'M A NERD and I ADMIT IT!😂 Other than that, I'm anxious
 
-Want to reach me for more? Here they are!
+Want to reach me?
 
 <p align="center">
   <a href="https://linkedin.com/in/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
@@ -27,5 +25,6 @@ Want to reach me for more? Here they are!
 </p>
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
+## GitHub Stats
 [![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
