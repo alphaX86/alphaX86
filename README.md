@@ -30,5 +30,5 @@ Here are my facts to be more clear:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-[![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=synthwave)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&theme=synthwave)]
+![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&theme=synthwave)
