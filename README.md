@@ -26,6 +26,7 @@ Here are my facts to be more clear:
   <a href="mailto:echo-864@wearehackerone.com"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
   <a href="https://kryome.carrd.co"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
   <a href="https://www.hackerrank.com/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg" /></a>
+  <a href="https://dev.to/alphax86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/dev-dot-to.svg" /></a>
 </p>
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
