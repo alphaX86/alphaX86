@@ -15,7 +15,7 @@ Here are my facts to be more clear:
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
 - 😄 Pronouns: He/Him/His
-- :book: Tech Stack: ReactJS, C/C++, SQL, Typescript and Go (in progress XD) 
+- :book: Tech Stack: ReactJS, C/C++, SQL, Typescript and Go (in progress xD) 
 - ⚡ Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again. 
 
 ## Want to reach me for more?
@@ -30,5 +30,5 @@ Here are my facts to be more clear:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=maroongold)
