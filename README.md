@@ -15,7 +15,8 @@ Here are my facts to be more clear:
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
 - 😄 Pronouns: He/Him/His
-- :book: Tech Stack: ReactJS, C/C++, SQL, Typescript and Go (in progress xD) 
+- :book: Tech Stack: C/C++, SQL, Typescript and Go (in progress xD)
+- :toolbox: Tools: VS Code, Sublime Text 3, Git, Docker*
 - ⚡ Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again. 
 
 ## Want to reach me for more?
