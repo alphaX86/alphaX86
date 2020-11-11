@@ -15,8 +15,8 @@ Here are my facts to be more clear:
 - 💬 Ask me about anything related to tech. I'll try to sort them of course!
 - 📫 How to reach me: Through Discord or through other platforms below. 
 - 😄 Pronouns: He/Him/His
-- :book: Tech Stack: C/C++, SQL, Typescript and Go (in progress xD)
-- :toolbox: Tools: VS Code, Sublime Text 3, Git, Docker*
+- :book: Languages (Both familiar and in progress): ![C/C++](https://img.shields.io/badge/-C++-blue?logo=c) ![Python](https://img.shields.io/badge/-Python-red?logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?logo=mysql) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Go](https://img.shields.io/badge/-GO-blueviolet?logo=go)
+- :toolbox: Tools: ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?logo=docker) ![GitHub](https://img.shields.io/badge/-GitHub-blueviolet?logo=github) 
 - ⚡ Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again. 
 
 ## Want to reach me for more?
