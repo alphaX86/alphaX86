@@ -21,7 +21,7 @@ Here are my facts to be more clear:
 ![C/C++](https://img.shields.io/badge/-C/C++-blue?logo=c) ![Python](https://img.shields.io/badge/-Python-red?logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?logo=mysql) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 
 ## :toolbox: Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?logo=docker) ![GitHub](https://img.shields.io/badge/-GitHub-blueviolet?logo=github) 
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?logo=docker) 
 
 ## Want to reach me for more?
 
