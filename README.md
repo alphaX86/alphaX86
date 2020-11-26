@@ -6,7 +6,7 @@
 
 ## Who am I?
 
-I'm a 18 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a part time gamer (well, not PRO exactly :smile:)
+I'm a 19 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a part time gamer (well, not PRO exactly :smile:)
 
 Here are my facts to be more clear:
 - 🔭 I’m currently working on Python3, C++, React, OSS development and other stuffs. 
