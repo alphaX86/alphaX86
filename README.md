@@ -18,7 +18,7 @@ Here are my facts to be more clear:
 - ⚡ Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again. 
 
 ## :book: Languages 
-![C/C++](https://img.shields.io/badge/-C/C++-blue?logo=c) ![Python](https://img.shields.io/badge/-Python-red?logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?logo=mysql) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![C/C++](https://img.shields.io/badge/-C/C++-blue?logo=c) ![Python](https://img.shields.io/badge/-Python-red?logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?logo=mysql) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Go](https://img.shields.io/badge/-Go-blue?logo=go)
 
 ## :toolbox: Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?logo=docker) 
@@ -37,3 +37,5 @@ Here are my facts to be more clear:
 ## GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=maroongold)
+
+![](https://komarev.com/ghpvc/?username=alphaX86&color=gray)
