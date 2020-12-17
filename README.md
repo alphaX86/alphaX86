@@ -28,16 +28,17 @@ Here are my facts to be more clear:
 ## Want to reach me for more?
 
 <p align="center">
-  <a href="https://linkedin.com/in/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" ></a>
-  <a href="https://twitter.com/KryoX86_64"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" ></a>
-  <a href="mailto:echo-864@wearehackerone.com"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" ></a>
-  <a href="https://kryome.carrd.co"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/processwire.svg" /></a>
-  <a href="https://www.hackerrank.com/alphaX86"><img height="40" width="40" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg" /></a>
+  <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" ></a>
+  <a href="https://twitter.com/KryoX86_64"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter" ></a>
+  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=flat-square&logo=gmail" ></a>
+  <a href="https://orcid.org/0000-0003-4864-0077"><img src="https://img.shields.io/badge/-Orcid-black?style=flat-square&logo=orcid" /></a>
+  <a href="https://www.codechef.com/users/echo_864"><img src="https://img.shields.io/badge/-CodeChef-black?style=flat-square&logo=codechef" /></a>
+  <a href="https://codeforces.com/profile/aeroX86"><img src="https://img.shields.io/badge/-CodeForces-black?style=flat-square&logo=codeforces" /></a>
 </p>
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=alphaX86&color=gray)
