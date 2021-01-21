@@ -42,4 +42,7 @@ Here are my facts to be more clear:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=highcontrast)
 
+## Trophies? (For stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=darkhub&row=1&no-frame=true&no-bg=true)
+
 ![](https://komarev.com/ghpvc/?username=alphaX86&color=gray)
