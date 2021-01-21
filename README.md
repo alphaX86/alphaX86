@@ -43,6 +43,6 @@ Here are my facts to be more clear:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=highcontrast)
 
 ## Trophies? (For stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=darkhub&row=1&no-frame=true&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=monokai&row=1&no-frame=true&no-bg=true)
 
 ![](https://komarev.com/ghpvc/?username=alphaX86&color=gray)
