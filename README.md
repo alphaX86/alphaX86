@@ -17,8 +17,10 @@ Here are my facts to be more clear:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again. 
 
+<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/carbon.png" loading="lazy" alt="code_text">
+
 ## :book: Languages 
-![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql) ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) ![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 ## :toolbox: Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?style=flat-square&logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?style=flat-square&logo=docker) 
@@ -28,12 +30,12 @@ Here are my facts to be more clear:
 ## Want to reach me for more?
 
 <p align="center">
-  <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" ></a>
-  <a href="https://twitter.com/KryoX86_64"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter" ></a>
-  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=flat-square&logo=gmail" ></a>
-  <a href="https://orcid.org/0000-0003-4864-0077"><img src="https://img.shields.io/badge/-Orcid-black?style=flat-square&logo=orcid" /></a>
-  <a href="https://www.codechef.com/users/echo_864"><img src="https://img.shields.io/badge/-CodeChef-black?style=flat-square&logo=codechef" /></a>
-  <a href="https://codeforces.com/profile/aeroX86"><img src="https://img.shields.io/badge/-CodeForces-black?style=flat-square&logo=codeforces" /></a>
+  <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
+  <a href="https://twitter.com/KryoX86_64"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
+  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
+  <a href="https://orcid.org/0000-0003-4864-0077"><img src="https://img.shields.io/badge/-Orcid-black?style=for-the-badge&logo=orcid" /></a>
+  <a href="https://www.codechef.com/users/echo_864"><img src="https://img.shields.io/badge/-CodeChef-black?style=for-the-badge&logo=codechef" /></a>
+  <a href="https://codeforces.com/profile/aeroX86"><img src="https://img.shields.io/badge/-CodeForces-black?style=for-the-badge&logo=codeforces" /></a>
 </p>
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
