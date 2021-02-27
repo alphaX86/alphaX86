@@ -2,7 +2,7 @@
 
 **I'm Aadhitya A, CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/hi.gif" height="400" width="400" loading="lazy" alt="hello_gif">
+<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/hi.gif" height="400" width="400" loading="lazy" alt="hello_gif">
 
 ## Who am I? 🤔
 
@@ -16,7 +16,7 @@ Here are my facts to be more clear:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: See 👇 
 
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/carbon.png" loading="lazy" alt="code_text">
+<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/carbon (1).png" loading="lazy" alt="code_text">
 
 ## :book: Languages 
 ![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql) ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) ![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
