@@ -2,7 +2,7 @@
 
 **I'm Aadhitya A, CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/hi.gif" height="400" width="400" loading="lazy" alt="hello_gif">
+<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" loading="lazy" alt="hello_gif">
 
 ## Who am I? 🤔
 
