@@ -19,10 +19,26 @@ Here are my facts to be more clear:
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/carbon (1).png" loading="lazy" alt="code_text">
 
 ## :book: Languages 
-![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql) ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) ![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) 
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) 
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 ## :toolbox: Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?style=flat-square&logo=sega) ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-red?style=flat-square&logo=docker) 
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
+![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-orange?style=flat-square&logo=sega) 
+![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <!-- Sega logo is used in place of sublime text's. My bad! LOL -->
 
