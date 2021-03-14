@@ -19,7 +19,7 @@ Here are my facts to be more clear:
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/carbon (1).png" loading="lazy" alt="code_text">
 
 ## :book: Languages 
-![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -32,6 +32,9 @@ Here are my facts to be more clear:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)
 
 ## :toolbox: Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
@@ -39,7 +42,9 @@ Here are my facts to be more clear:
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat-square&logo=github%20actions&logoColor=white)
 <!-- Sega logo is used in place of sublime text's. My bad! LOL -->
 
 ## Want to reach me for more?
