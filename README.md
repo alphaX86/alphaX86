@@ -2,6 +2,8 @@
 
 **I'm Aadhitya A, CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
+<p align="center"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" loading="lazy" alt="hello_gif">
 
 ## Who am I? 🤔
@@ -53,9 +55,6 @@ Here are my facts to be more clear:
   <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
   <a href="https://twitter.com/KryoX64"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
   <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
-  <a href="https://orcid.org/0000-0003-4864-0077"><img src="https://img.shields.io/badge/-Orcid-black?style=for-the-badge&logo=orcid" /></a>
-  <a href="https://www.codechef.com/users/echo_864"><img src="https://img.shields.io/badge/-CodeChef-black?style=for-the-badge&logo=codechef" /></a>
-  <a href="https://codeforces.com/profile/aeroX86"><img src="https://img.shields.io/badge/-CodeForces-black?style=for-the-badge&logo=codeforces" /></a>
 </p>
 
 
