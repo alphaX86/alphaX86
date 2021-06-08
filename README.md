@@ -13,7 +13,7 @@ I'm a 19 y/o student developer who just wants to explore everything in Tech. It 
 Here are my facts to be more clear:
 - 🔭 I’m currently working on Python3, C++, React, Full-Stack and other stuffs. 
 - 🌱 I’m currently learning the basics of CV, NLP, DevOps and Cloud (if you think I'm polyglot, I'm not xD) 
-- ❤️ I love to code and play games (COD:Mobile especially! LOL)
+- ❤️ I love to code and play games (COD, FIFA mobile! LOL)
 - 📫 How to reach me: Through Discord or through other platforms below. 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: See 👇 
