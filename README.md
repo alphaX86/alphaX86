@@ -54,7 +54,7 @@ Here are my facts to be more clear:
 <p align="center">
   <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
   <a href="https://twitter.com/KryoX64"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
-  <a href="mailto:echo-864@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
+  <a href="mailto:aesir0@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
 </p>
 
 
