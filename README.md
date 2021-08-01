@@ -42,7 +42,7 @@ Here are my facts to be more clear about myself:
 
 ## :toolbox: Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
