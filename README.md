@@ -16,9 +16,6 @@ Here are my facts to be more clear about myself:
 - ❤️ I love to code, play games and listen to music
 - 📫 How to reach me: Through Discord or other platforms below 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: See 👇 
-
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/carbon (1).png" loading="lazy" alt="code_text">
 
 ## :book: Languages and Frameworks
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -27,6 +24,7 @@ Here are my facts to be more clear about myself:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) 
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -35,19 +33,20 @@ Here are my facts to be more clear about myself:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ## :toolbox: Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat-square&logo=github%20actions&logoColor=white)
 
