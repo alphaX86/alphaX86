@@ -38,7 +38,6 @@ Here are my facts to be more clear about myself:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)
-![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ## :toolbox: Tools
