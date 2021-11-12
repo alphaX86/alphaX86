@@ -1,6 +1,6 @@
-## Hi there! 👋
+# Hi there! I'm Aadhitya <img width="4%" src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" alt="wave gif" loading="lazy">
 
-**I'm Aadhitya A, CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
+**I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
 <p align="center"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
@@ -62,9 +62,9 @@ Here are my facts to be more clear about myself:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&bg_color=0,2c3e50,000000&text_color=fff&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=midnight-purple)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=midnight-purple)
+![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true)
 
 ## Trophies? (For stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=monokai&row=1&no-frame=true&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true)
