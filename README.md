@@ -8,7 +8,7 @@
 
 ## Who am I? 🤔
 
-I'm a 19 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
+I'm a 20 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
 
 Here are my facts to be more clear about myself:
 - 🔭 I’m currently working on Meshery, (which is a CNCF Sandbox project) under Docs and CLI client
