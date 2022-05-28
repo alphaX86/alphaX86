@@ -1,4 +1,4 @@
-# Hi there! <img width="4%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"> I'm Aadhitya
+# Hi there! <img width="30%" height="10%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"> I'm Aadhitya
 
 **I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
