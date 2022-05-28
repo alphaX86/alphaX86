@@ -1,8 +1,8 @@
-# Hi there! <img width="30%" height="10%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"> I'm Aadhitya
+# Hi there! <img width="20%" height="10%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"><br> I'm Aadhitya
 
 **I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
-<p align="center"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p><img width="30%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" loading="lazy" alt="hello_gif">
 
