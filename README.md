@@ -2,13 +2,13 @@
 
 **I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
 
-<p><img width="30%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p><img width="25%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" loading="lazy" alt="hello_gif">
+<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" width="50%" loading="lazy" alt="hello_gif">
 
 ## Who am I? 🤔
 
-I'm a 20 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
+I'm a 21 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
 
 Here are some bits about myself:
 - 🔭 I worked as LFX Mentee on Meshery which is a CNCF Sandbox project under Docs, core and CLI client
@@ -54,7 +54,7 @@ Here are some bits about myself:
 <p align="center">
   <a href="https://linkedin.com/in/alphaX86"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
   <a href="https://twitter.com/KryoX64"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
-  <a href="mailto:aesir0@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
+  <a href="mailto:kryox64@wearehackerone.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
 </p>
 
 
