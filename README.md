@@ -62,8 +62,8 @@ Here are some bits about myself:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true)
+![My Stats](https://github-stats-g942.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true)
+![Top Langs](https://github-stats-g942.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true)
 
 ## Trophies? (For stats)
