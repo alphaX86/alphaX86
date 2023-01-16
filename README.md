@@ -9,9 +9,14 @@
 ## Current Designation
 <img src="https://readme-components.vercel.app/api?component=experience&company=meshery&role=Maintainer&location=Remote&fill=black">
 
-<details>
-<summary><h2>Previously at..</h2><summary>
-<img src="https://readme-components.vercel.app/api?component=experience&company=cncf&role=LFX%20Mentee&location=Remote&fill=black">
+<details><summary>
+    
+## Previously at...
+    
+</summary>
+  
+  ![LFX](https://readme-components.vercel.app/api?component=experience&company=cncf&role=LFX%20Mentee&location=Remote&fill=black)
+  
 </details>
 
 ## Who am I? 🤔
@@ -70,9 +75,12 @@ Here are some bits about myself:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-<table>
+<table columns=2>
+  <tr>
   <td><img src="https://github-stats-g942.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true"></td>
   <td><img src="https://github-stats-g942.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true"></td>
+  </tr><tr>
   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true"></td>
-  <td><img src="https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true"></td>
+  <td><img src="https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true" width="85%"></td>
+  </tr>
 </table>
