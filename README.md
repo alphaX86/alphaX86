@@ -6,6 +6,14 @@
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" width="50%" loading="lazy" alt="hello_gif">
 
+## Current Designation
+<img src="https://readme-components.vercel.app/api?component=experience&company=meshery&role=Maintainer&location=Remote&fill=black">
+
+<details>
+<summary><h2>Previously at..</h2><summary>
+<img src="https://readme-components.vercel.app/api?component=experience&company=cncf&role=LFX%20Mentee&location=Remote&fill=black">
+</details>
+
 ## Who am I? 🤔
 
 I'm a 21 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
@@ -14,7 +22,7 @@ Here are some bits about myself:
 - 🔭 I worked as LFX Mentee on Meshery which is a CNCF Sandbox project under Docs, core and CLI client
 - 🌱 I’m currently learning the basics of CV, NLP, DevOps and UNIX 
 - ❤️ I love to code, play games and listen to music
-- 📫 How to reach me: Through Discord or other platforms below 
+- 📫 How to reach me: Through [Discord](https://tinyurl.com/discord-profile-ace) or other platforms below 
 - 😄 Pronouns: He/Him
 
 ## :book: Languages and Frameworks
@@ -62,9 +70,9 @@ Here are some bits about myself:
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
-![My Stats](https://github-stats-g942.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true)
-![Top Langs](https://github-stats-g942.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true)
-
-## Trophies? (For stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true)
+<table>
+  <td><img src="https://github-stats-g942.vercel.app/api?username=alphaX86&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&no-bg=true"></td>
+  <td><img src="https://github-stats-g942.vercel.app/api/top-langs/?username=alphaX86&layout=compact&langs_count=8&theme=gruvbox&no-bg=true"></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true"></td>
+  <td><img src="https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true"></td>
+</table>
