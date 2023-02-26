@@ -1,8 +1,8 @@
-# Hi there! <img width="20%" height="10%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"><br> I'm Aadhitya
+# Hi there! <img width="5%" height="5%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="wave gif" loading="lazy"><br> I'm Aadhitya
 
-**I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to meet you all! 👋👋
+**I'm a CS student, developer, nerd and gamer ❤️.**. It's nice to e-meet you all! 👋👋
 
-<p><img width="25%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p><img width="30%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" width="50%" loading="lazy" alt="hello_gif">
 
@@ -21,46 +21,53 @@
 
 ## Who am I? 🤔
 
-I'm a 21 y/o student developer who just wants to explore everything in Tech. It may be of cloud, Algo or something. Other than that, I'm a gamer and I'd listen to Music
+I'm a 21 y/o student developer who just wants to explore everything in Tech. Other than that, I'm a gamer and I'd listen to Music
 
-Here are some bits about myself:
+Here's some bits about me:
 - 🔭 I worked as LFX Mentee on Meshery which is a CNCF Sandbox project under Docs, core and CLI client
-- 🌱 I’m currently learning the basics of CV, NLP, DevOps and UNIX 
+- 🌱 I’m currently learning the depths of CV, NLP, DevOps and UNIX 
 - ❤️ I love to code, play games and listen to music
 - 📫 How to reach me: Through [Discord](https://tinyurl.com/discord-profile-ace) or other platforms below 
 - 😄 Pronouns: He/Him
 
-## :book: Languages and Frameworks
+## :book: Languages
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) 
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) 
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+## ⚙️ Frameworks
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Jekyll](https://img.shields.io/badge/-Jekyll-red?style=flat-square&logo=jekyll) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+
 
 ## :toolbox: Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat-square&logo=github%20actions&logoColor=white)
+
+## 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ## Want to reach me for more?
 
