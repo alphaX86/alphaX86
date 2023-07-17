@@ -6,19 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" width="50%" loading="lazy" alt="hello_gif">
 
-## Current Designation
-<img src="https://readme-components.vercel.app/api?component=experience&company=meshery&role=Maintainer&location=Remote&fill=black">
-
-<details><summary>
-    
-## Previously at...
-    
-</summary>
-  
-  ![LFX](https://readme-components.vercel.app/api?component=experience&company=cncf&role=LFX%20Mentee&location=Remote&fill=black)
-  
-</details>
-
 ## Who am I? 🤔
 
 I'm a 21 y/o student developer who just wants to explore everything in Tech. Other than that, I'm a gamer and I'd listen to Music
