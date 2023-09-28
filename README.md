@@ -1,7 +1,3 @@
-<p><img width="30%" align="center" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
-<img src="https://raw.githubusercontent.com/alphaX86/alphaX86/master/assets/source.gif" width="50%" loading="lazy" alt="hello_gif">
-
 ![](https://komarev.com/ghpvc/?username=alphaX86&color=gray)
 
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
